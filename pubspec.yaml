@@ -18,7 +18,7 @@ dependencies:
   video_thumbnail:
     git:
       url: https://github.com/pictureframing/video_thumbnail
-      ref: v0.5.2-ffmpeg-min
+      ref: v0.5.3-ffmpeg-min
 
   path: ^1.8.0 # update to `1.8.1` causes #79
   visibility_detector: ^0.3.3
